@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Rent Agreement PDF Editor</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Rent Agreement PDF Editor</string>
+    <string name="select_pdf_button">Select PDF</string>
+    <string name="upgrade_to_pro">Upgrade to Pro</string>
+    <string name="free_exports_remaining">Free exports remaining: %d</string>
+    <string name="document_history">Document History</string>
+    <string name="no_documents">No documents imported yet</string>
+    
+    <!-- Import Screen -->
+    <string name="import_title">Processing Document</string>
+    <string name="step_rendering">Rendering PDF</string>
+    <string name="step_ocr">OCR Parsing</string>
+    <string name="step_extraction">Field Extraction</string>
+    <string name="retry_button">Retry</string>
+    <string name="report_error">Report Error</string>
+    <string name="processing_error">Error processing document</string>
+    
+    <!-- Extracted Fields Screen -->
+    <string name="extracted_fields_title">Edit Agreement Details</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="tenant_name">Tenant Name</string>
+    <string name="property_address">Property Address</string>
+    <string name="rent_amount">Rent Amount (₹)</string>
+    <string name="deposit_amount">Deposit Amount (₹)</string>
+    <string name="agreement_start_date">Agreement Start Date</string>
+    <string name="duration_months">Duration (months)</string>
+    <string name="notice_period">Notice Period (days)</string>
+    <string name="maintenance_amount">Maintenance Amount (₹)</string>
+    <string name="generate_pdf_button">Generate Summary PDF</string>
+    <string name="validation_error">Please fill all required fields correctly</string>
+    
+    <!-- Preview Screen -->
+    <string name="preview_title">PDF Preview</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="unlock_pro_banner">Unlock Pro for unlimited exports!</string>
+    <string name="free_limit_reached">Free export limit reached. Upgrade to Pro for unlimited exports.</string>
+    
+    <!-- Paywall Screen -->
+    <string name="paywall_title">Upgrade to Pro</string>
+    <string name="free_features_title">Free Features</string>
+    <string name="free_feature_1">• Preview and extract key fields</string>
+    <string name="free_feature_2">• Export PDF once</string>
+    <string name="pro_features_title">Pro Features</string>
+    <string name="pro_feature_1">• Unlimited PDF exports</string>
+    <string name="pro_feature_2">• Save templates</string>
+    <string name="pro_feature_3">• Unlimited edits</string>
+    <string name="pro_price">₹299 one-time payment</string>
+    <string name="purchase_button">Purchase Pro</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    <string name="purchase_success">Purchase successful! Pro unlocked.</string>
+    <string name="purchase_error">Purchase failed. Please try again.</string>
+    <string name="already_owned">You already own Pro!</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="clear_history">Clear History</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="app_version">App Version: %s</string>
+    <string name="history_cleared">History cleared successfully</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="pro_badge">PRO</string>
+</resources>
